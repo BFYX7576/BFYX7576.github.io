@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d3dfc20a.chunk.css",
+    "main.js": "/static/js/main.834b3fa6.chunk.js",
+    "main.js.map": "/static/js/main.834b3fa6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e988dc78.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e988dc78.js.map",
+    "static/js/2.08da9d04.chunk.js": "/static/js/2.08da9d04.chunk.js",
+    "static/js/2.08da9d04.chunk.js.map": "/static/js/2.08da9d04.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d3dfc20a.chunk.css.map": "/static/css/main.d3dfc20a.chunk.css.map",
+    "static/js/2.08da9d04.chunk.js.LICENSE.txt": "/static/js/2.08da9d04.chunk.js.LICENSE.txt",
+    "static/media/CarrieBridge1.a5eb9868.png": "/static/media/CarrieBridge1.a5eb9868.png",
+    "static/media/CarrieBridge2.376740cd.png": "/static/media/CarrieBridge2.376740cd.png",
+    "static/media/CarrieBridge3.181b3652.png": "/static/media/CarrieBridge3.181b3652.png",
+    "static/media/Rainforest.3581111e.jpg": "/static/media/Rainforest.3581111e.jpg",
+    "static/media/Rainforest1.541944e9.jpg": "/static/media/Rainforest1.541944e9.jpg",
+    "static/media/Rainforest2.ce0b5957.jpg": "/static/media/Rainforest2.ce0b5957.jpg",
+    "static/media/WinterConcert.d9fafbac.jpg": "/static/media/WinterConcert.d9fafbac.jpg",
+    "static/media/WinterConcert1.ffd2326e.jpg": "/static/media/WinterConcert1.ffd2326e.jpg",
+    "static/media/WinterConcert2.2bb8df04.JPG": "/static/media/WinterConcert2.2bb8df04.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e988dc78.js",
+    "static/js/2.08da9d04.chunk.js",
+    "static/css/main.d3dfc20a.chunk.css",
+    "static/js/main.834b3fa6.chunk.js"
+  ]
+}
